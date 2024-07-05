@@ -15,13 +15,14 @@ response_time_weight = 0.5
 resolution_weight = 0.5
 recent_days = 30
 ipv_type = "all"
-domain_blacklist = ["epg.pw"]
+domain_blacklist = []
 url_keywords_blacklist = []
-open_subscribe = False
+open_subscribe = True
 subscribe_urls = [
     "https://m3u.ibert.me/txt/fmml_dv6.txt",
     "https://m3u.ibert.me/txt/o_cn.txt",
     "https://m3u.ibert.me/txt/j_iptv.txt",
+    "https://freetv.fun/test_channels_china_new.txt"，
 ]
 open_multicast = True
 region_list = ["all"]
