@@ -20,7 +20,7 @@ subscribe_urls = [
     "https://m3u.ibert.me/txt/fmml_dv6.txt",
     "https://m3u.ibert.me/txt/o_cn.txt",
     "https://m3u.ibert.me/txt/j_iptv.txt",
-    "https://freetv.fun/test_channels_china_new.txt"，
+    "https://freetv.fun/test_channels_china_new.txt",
 ]
 open_multicast = True
 region_list = ["all"]
