@@ -9,6 +9,9 @@ CCTV-8,
 CCTV-9,
 CCTV-10,
 
+山东，#genre#
+山东体育,
+
 广西移动魔百盒,#genre#
 
 
