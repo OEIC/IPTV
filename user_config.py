@@ -1,10 +1,8 @@
 source_file = "user_demo.txt"
 final_file = "user_result.txt"
 favorite_list = [
-    "广东珠江",
-    "广东影视",
-    "岭南戏曲",
-    "大湾区卫视",
+    "CCTV-1",
+    "山东体育",
 ]
 open_online_search = True
 favorite_page_num = 5
