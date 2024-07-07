@@ -14,7 +14,8 @@ CCTV-11戏曲,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live
 CCTV-12社会与法,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel11/1300.m3u8
 CCTV-13新闻,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel39/1300.m3u8
 CCTV-14少儿,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel12/1300.m3u8
-CCTV-16,
+CCTV15,https://stream1.freetv.fun/cctv-15-5.m3u8
+CCTV16,https://stream1.freetv.fun/cctv-16-1.m3u8
 CCTV-17农业农村,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel90/2300.m3u8
 CCTV-4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
@@ -55,6 +56,6 @@ CETV3中国教育电视台三套,http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
 CETV4空中课堂频道,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 
 山东,#genre#
-山东卫视,
-山东体育,http://49.234.31.101:7004udp://@224.9.2.13:5000
+山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-6.m3u8
+山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-2.m3u8
 
