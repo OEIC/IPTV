@@ -564,4 +564,8 @@ CETV4空中课堂频道,https://iptv.luas.edu.cn/liverespath/d9fd740848ee6bc5d88
 山东卫视,http://fxgm.fxjf.work:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://59.62.8.250:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-2.m3u8
+山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-3.ctv
+山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-7.ctv
+山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-5.m3u8
+山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-6.m3u8
 
